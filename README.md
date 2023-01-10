@@ -4,7 +4,7 @@
 _____
 
 
-## Step 1: Shadow People
+## *Step 1: Shadow People*
 
 ### 1.**Create a secret user named sysd. Make sure this user doesn't have a home folder created**.
 
